@@ -66,6 +66,8 @@
 
 
 ### スクリーンショット
-<img src="kekka_24_1.png" width="500" alt="最初の表示">
-<img src="kekka_24_2.png" width="500" alt="何も入力していない">
+<img src="kekka_24_1.png" width="500" alt="最初の表示">\
+何も入力しないで送信ボタンを押した場合\
+<img src="kekka_24_2.png" width="500" alt="何も入力していない">\
+メールアドレスの入力欄にメールアドレス以外のものを入力した場合\
 <img src="kekka_24_3.png" width="500" alt="メールの形式ではない">
