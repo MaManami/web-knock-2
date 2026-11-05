@@ -38,6 +38,6 @@
 ```
 
 ### 表示結果
-[Contribution guidelines for this project](/assets/images/kekka_21.png)
+![スクリーンショット](./kekka_21.jpeg)
 
 
