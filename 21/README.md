@@ -38,7 +38,6 @@
 ```
 
 ### 表示結果
-<img src="kekka_21.png" width="400" alt="スクリーンショット">
-![スクリーンショット](./kekka_21.png)
+<img src="kekka_21.png" width="500" alt="スクリーンショット">
 
 
