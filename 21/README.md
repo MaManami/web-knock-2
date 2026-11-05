@@ -24,19 +24,14 @@
   </ul>
 
 <h2>好きなモノ・コト</h2>
-  <ul>
-    <li>紅茶・コーヒー</li>
-    <li>モスバーガー</li>
-    <li>クラゲ</li>
-    <li>野球観戦</li>
-    <li>M!LK</li>
-  </ul>
+<p>カフェを巡って紅茶やコーヒーを飲むのが好きです。おすすめはモスバーガーのティーミルクです。</p>
+<p>よく野球観戦に行きます。</p>
+<p>最近はM!LKの曲を色々聞いています。</p>
 
-<h2>所属（元）</h2>
+<h2>活動・経歴</h2>
 <p>未定研に所属していました</p>
- <img src="aruba.jpeg" alt="サムネ" width="120" height="120">
-よければ過去作品もご覧ください！
-<p><a href="https://youtu.be/C2iAzqANcyw?si=IPfuCwp0LRa4CBip">2025年上映作品「空色のアルバ」</a></p>
+<p><img src="aruba.jpeg" alt="サムネ" width="120" height="120"></p>
+<p>よければ過去作品もご覧ください！<a href="https://youtu.be/C2iAzqANcyw?si=IPfuCwp0LRa4CBip">2025年上映作品「空色のアルバ」</a></p>
 
 
 </body>
